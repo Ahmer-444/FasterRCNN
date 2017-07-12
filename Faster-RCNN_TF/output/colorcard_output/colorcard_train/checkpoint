@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/ghazanfar/REPOS/ColorCardTraining/Faster-RCNN_TF/output/colorcard_output/colorcard_train/VGGnet_fast_rcnn_iter_10000.ckpt"
+all_model_checkpoint_paths: "/home/ghazanfar/REPOS/ColorCardTraining/Faster-RCNN_TF/output/colorcard_output/colorcard_train/VGGnet_fast_rcnn_iter_5000.ckpt"
+all_model_checkpoint_paths: "/home/ghazanfar/REPOS/ColorCardTraining/Faster-RCNN_TF/output/colorcard_output/colorcard_train/VGGnet_fast_rcnn_iter_10000.ckpt"
